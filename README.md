@@ -1,2 +1,1 @@
-# concert-sponsor
-A simple Node application starter template for a dynamic website backed by AWS RDS
+This is a website with super cool things, it will make you feel awesome!!!
